@@ -2,7 +2,10 @@
 Wiki pour annoter les choses Raspberry-utiles que j'ai trouvé sur le passage
 
 QWERTY -> AZERTY
-setxkbmap fr
+<br>setxkbmap fr
 
 lister usb devices
-lsusb
+<br>lsusb
+<br>
+terminal passer en root
+<br>sudo -s
