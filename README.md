@@ -7,20 +7,19 @@ Wiki pour annoter les choses Raspberry-utiles que j'ai trouvé sur le passage
 ![Pi logo](https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png)
 
 ### QWERTY -> AZERTY
-<br>setxkbmap fr
+setxkbmap fr
 
 ### LISTER PERIPHERIQUES USB
-<br>`lsusb`
-<br>
+`lsusb`
 
 ### TERMINAL | passer en ROOT
-<br>`sudo -s`
+`sudo -s`
 
 ### CAMERA | éteindre LED rouge
-<br>éditer le fichier config.txt
+éditer le fichier config.txt
 <br>`sudo nano /boot/config.txt`
 <br>`disable_camera_led=1`
 
 ### PI-HOLE
-<br>blacklists
-<br>https://firebog.net/
+blacklists
+https://firebog.net/
