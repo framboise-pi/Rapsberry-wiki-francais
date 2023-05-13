@@ -28,12 +28,12 @@ https://firebog.net/
 Sur la partition /boot de la carte µSD,
 créer un fichier "wpa_supplicant.conf"
 
-`ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
-update_config=1
-country=US
-
-network={
-     ssid="Your network name/SSID"
-     psk="Your WPA/WPA2 security key"
-     key_mgmt=WPA-PSK
-}`
+<br>`ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev`
+<br>`update_config=1`
+<br>`country=US`
+<br>
+<br>`network={`
+<br>`     ssid="Your network name/SSID"`
+<br>`     psk="Your WPA/WPA2 security key"`
+<br>`     key_mgmt=WPA-PSK`
+<br>`}`
