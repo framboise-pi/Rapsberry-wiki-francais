@@ -24,6 +24,11 @@ setxkbmap fr
 blacklists
 https://firebog.net/
 
+### PHP 8.1 INSTALLATION
+<br>un mélange entre ces deux pages pourq ue ça marche:
+<br>https://pimylifeup.com/raspberry-pi-latest-php/
+<br>https://www.tal.org/tutorials/setup-php-7-or-8-apache-raspberry-pi
+
 ### PI ZERO WIFI
 Sur la partition /boot de la carte µSD,
 créer un fichier "wpa_supplicant.conf"
